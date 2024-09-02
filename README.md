@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Seenivasan
-- 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning Software Testing
   
    🚀 Java
    🚀 Selenium Webdriver
@@ -9,7 +8,6 @@
    🚀 Maven
    🚀 Manual Testing
    🚀 Jira
-   🚀 Cypress
    🚀 Playwright
    🚀 Frontend Web-Development
 
