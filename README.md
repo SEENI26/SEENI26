@@ -12,7 +12,6 @@
    🚀 Frontend Web-Development
 
 
-- ⚡ Fun fact: ...
 
 <!---
 SEENI26/SEENI26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
